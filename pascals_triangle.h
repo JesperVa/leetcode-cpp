@@ -7,7 +7,7 @@
 
 #include <vector>
 
-class Solution {
+class pascals_triangle {
 public:
     std::vector<std::vector<int>> generate(int numRows) {
         std::vector results = std::vector<std::vector<int>>();
