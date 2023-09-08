@@ -4,4 +4,4 @@ project(cpp)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(cpp main.cpp
-        pascals_triangle.h)
+        solutions/pascals_triangle/pascals_triangle.h)

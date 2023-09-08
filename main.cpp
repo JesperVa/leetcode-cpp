@@ -1,5 +1,5 @@
 #include <iostream>
-#include "pascals_triangle.h"
+#include "solutions/pascals_triangle/pascals_triangle.h"
 
 void test_pascals_triangle(bool is_printing);
 void print_results(std::vector<std::vector<int>> int_vector_results);
